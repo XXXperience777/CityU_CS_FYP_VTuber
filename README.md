@@ -6,9 +6,9 @@ This is the **Unity project** of my **VR application**.
 <img src="https://github.com/XXXperience777/CityU_CS_FYP_VTuber/blob/main/FYP_Screenshot_LIU%20Kaiyuan.png?raw=true" width = "50%" height = "50%" alt="Project screenshots" align=center />
 
 
-Here is the install and run instructions, you can also click [here](https://drive.google.com/drive/folders/1xbcgHHW0WgZ_dAsx-80XBm5rQoLs0Ouq?usp=sharing) to get the [**video instruction**](https://drive.google.com/drive/folders/1xbcgHHW0WgZ_dAsx-80XBm5rQoLs0Ouq?usp=sharing).
+Here is the install and run instructions, you can also click [here](https://drive.google.com/file/d/1NLZWWcLTxCBv4EQvblK1GgR4MzFWoJJn/view?usp=sharing) to get the [**video instruction**](https://drive.google.com/file/d/1NLZWWcLTxCBv4EQvblK1GgR4MzFWoJJn/view?usp=sharing).
 
-[<img src="https://github.com/XXXperience777/CityU_CS_FYP_VTuber/blob/main/install.png?raw=true" width = "50%" height = "50%" alt="install video" align=center />](https://drive.google.com/drive/folders/1xbcgHHW0WgZ_dAsx-80XBm5rQoLs0Ouq?usp=sharing)
+[<img src="https://github.com/XXXperience777/CityU_CS_FYP_VTuber/blob/main/install.png?raw=true" width = "50%" height = "50%" alt="install video" align=center />](https://drive.google.com/file/d/1NLZWWcLTxCBv4EQvblK1GgR4MzFWoJJn/view?usp=sharing)
 
 There are two ways to install and open this VR application. 
 
